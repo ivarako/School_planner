@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">School planner</string>
+
+    <string name="subject">Subject</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="timetable">Timetable</string>
+    <string name="calendar">Calendar</string>
+    <string name="grades">Grades</string>
+    <string name="subjects">Subjects</string>
+    <string name="newSemestar">New semestar</string>
+    <string name="weekPlans">Week plans</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="newExam">New exam</string>
+    <string name="areYouSureAll">Are you sure you want to delete all grades, exams and timetable?</string>
+
+    <string name="subject_name">Subject name</string>
+    <string name="question">Delete subject?</string>
+    <string name="exams">Exams</string>
+
+
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+    <string name="editExam">Edit exam</string>
+    <string name="provideData">Provide the required data first</string>
+    <string name="saved">Saved!</string>
+    <string name="areYouSure">Are you sure?</string>
+    <string name="deleted">Deleted!</string>
+    <string name="deletingFailed">Deleting failed</string>
+    <string name="daysAnd">days and </string>
+    <string name="hours">hours</string>
+    <string name="average_rating">Average rating:</string>
+    <string name="add_grade">Add grade</string>
+    <string name="edit_grade">Edit grade</string>
+    <string name="final_grade">Final grade</string>
+
+    <string name="week">Week:</string>
+    <string name="item">Item</string>
+    <string name="provideDateFirst">Enter a date first</string>
+    <string name="week2">Week</string>
+
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="nsi.schoolplanner">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/book"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activities.HomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activities.NewExamActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Activities.ExamActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Activities.TimeTableActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Activities.CalendarActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Activities.AllSubjectsActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Activities.SubjectActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Activities.GradesActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Activities.AllWeekPlansActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Activities.WeekPlanActivity"
+            android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>

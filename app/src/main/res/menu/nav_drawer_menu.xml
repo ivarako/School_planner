@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/timetable"
+        android:title="@string/timetable"
+        android:icon="@drawable/timetable" />
+
+    <item
+        android:id="@+id/calendar"
+        android:title="@string/calendar"
+        android:icon="@drawable/calendar"/>
+
+    <item
+        android:id="@+id/grades"
+        android:title="@string/grades"
+        android:icon="@drawable/grades"/>
+
+    <item
+        android:id="@+id/subjects"
+        android:title="@string/subjects"
+        android:icon="@drawable/subjects"/>
+
+    <item
+        android:id="@+id/newSemestar"
+        android:title="@string/newSemestar"
+        android:icon="@drawable/new_semestar"/>
+
+    <item
+        android:id="@+id/weekPlans"
+        android:title="@string/weekPlans"
+        android:icon="@drawable/week_plan"/>
+
+</menu>
